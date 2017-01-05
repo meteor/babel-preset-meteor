@@ -33,6 +33,7 @@ module.exports = {
     require("babel-plugin-syntax-object-rest-spread"),
     require("babel-plugin-transform-object-rest-spread"),
     require("babel-plugin-transform-es3-property-literals"),
+    require("babel-plugin-transform-exponentiation-operator"),
     require("babel-plugin-transform-flow-strip-types"),
     require("babel-plugin-transform-regenerator")
   ]
