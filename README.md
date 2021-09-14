@@ -2,6 +2,8 @@
 
 > Babel preset for all Meteor plugins.
 
+THIS REPOSITORY HAS BEEN [MERGED INTO THE MAIN METEOR REPOSITORY](https://github.com/meteor/meteor/tree/devel/npm-packages/babel-preset-meteor). You will find the up to date code there.
+
 ## Install
 
 ```sh
